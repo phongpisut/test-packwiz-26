@@ -1,0 +1,13 @@
+name = "LambDynamicLights"
+filename = "lambdynamiclights-4.12.3+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ed8a01b56a93432affcdaed30f9517051274f6a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8657351
+project-id = 393442

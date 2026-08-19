@@ -1,0 +1,13 @@
+name = "UI Lib"
+filename = "uilib-fabric-21.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eba9faec4f5d6e3ccd77468baa96f79bacbef6a2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8371457
+project-id = 933200

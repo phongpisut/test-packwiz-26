@@ -1,0 +1,13 @@
+name = "Items Displayed [Fabric]"
+filename = "ItemsDisplayed - v1.3-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54bf6d422851fdd6b22f2b56e97b77265f0c9b14"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8266498
+project-id = 898470

@@ -1,0 +1,13 @@
+name = "Concrete Conversion"
+filename = "concreteconversion-26.1-7.0.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "927934c0792066c90cebfeb8301fd5d96c13b4aa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7825883
+project-id = 297318

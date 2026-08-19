@@ -1,0 +1,13 @@
+name = "Tiny Mob Farm Remastered"
+filename = "tinymobfarm-fabric-21.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9a48be3941c6517d36301132d679436b9f540a6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8539421
+project-id = 986607

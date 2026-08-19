@@ -1,0 +1,13 @@
+name = "Little Joys"
+filename = "littlejoys-fabric-26.2-26.2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90eb7bc9d0ea46cd2db1e33dcebfdf38c3a5de73"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8450182
+project-id = 1235950

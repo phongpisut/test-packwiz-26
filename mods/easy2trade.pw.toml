@@ -1,0 +1,13 @@
+name = "Easy2Trade"
+filename = "easy2trade-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "442ecbd958c9dfae7458be07009528f251395bb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8593641
+project-id = 1568283

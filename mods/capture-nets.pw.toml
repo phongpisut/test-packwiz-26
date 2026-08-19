@@ -1,0 +1,13 @@
+name = "Capture Nets"
+filename = "capturenet-fabric-0.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4150354b3a0a21e90c9ec2c88a3bc3fd87a25e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8465350
+project-id = 1552018

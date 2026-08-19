@@ -1,0 +1,13 @@
+name = "RightClickHarvest"
+filename = "rightclickharvest-fabric-4.6.2+26.2.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fd76a96762463941804f8665ebb03a84e51a04cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8260696
+project-id = 452834

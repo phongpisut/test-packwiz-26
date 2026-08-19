@@ -1,0 +1,13 @@
+name = "Smooth Gui"
+filename = "smoothgui-fabric-2.0.4+mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19a170323e6cbbf7851bf05db1aef5340455ff53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8676430
+project-id = 956789

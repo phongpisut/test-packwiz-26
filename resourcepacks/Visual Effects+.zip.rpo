@@ -1,0 +1,21 @@
+{
+    Birds: true,
+    Butterflies: true,
+    Tumbleweed: true,
+    Creaking_eyes: true,
+    Rain_mist: true,
+    Snowy_biomes_weather: true,
+    Desert_biomes_weather: true,
+    Savanna_dust_clouds: true,
+    Nether_fog: true,
+    Water_splash: true,
+    Pale_garden_fog: true,
+    Cavedust: true,
+    Explosion: true,
+    End_fog: true,
+    VFX: true,
+    Soulstorm: true,
+    Water_caustics: true,
+    Custom_Rain: true,
+    lightrays: true
+}

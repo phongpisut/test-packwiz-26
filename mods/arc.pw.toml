@@ -1,0 +1,13 @@
+name = "Arc Lib"
+filename = "arc-fabric-21.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1227d1b13b1079cf361b8eb537d51eb7b0859ef3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8567642
+project-id = 883593

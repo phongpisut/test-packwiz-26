@@ -1,0 +1,13 @@
+name = "Bobby"
+filename = "bobby-5.2.15+mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7acb26634632894b95ef09c06503c7cc8f04b90b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8417538
+project-id = 409301

@@ -1,0 +1,13 @@
+name = "Whimscape"
+filename = "Whimscape_26.1-26.2_r1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e2acd9c688b5b238adc19ad9da2f23ea52fa101"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8253719
+project-id = 682643

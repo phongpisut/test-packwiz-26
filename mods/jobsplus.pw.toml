@@ -1,0 +1,13 @@
+name = "Jobs+"
+filename = "jobsplus-fabric-21.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f0c5f437be78c6b97a18068e81a287af29c09d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8556970
+project-id = 916985

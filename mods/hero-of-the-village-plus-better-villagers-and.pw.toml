@@ -1,0 +1,13 @@
+name = "Hero of the Village Plus - Better Villagers and Extra Trades"
+filename = "HotVP-fabric-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "27a0f37cf4d7cb11344dde7c37d6644b8f278001"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8335898
+project-id = 1483314

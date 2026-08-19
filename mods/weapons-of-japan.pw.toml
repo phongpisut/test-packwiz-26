@@ -1,0 +1,13 @@
+name = "Weapons of Japan"
+filename = "weaponsofjapan-1.0.0-fabric-26.1.2-0.148.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6879cbc7a2f48a18ce7acb96e41c88ef678418c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8087490
+project-id = 1542898

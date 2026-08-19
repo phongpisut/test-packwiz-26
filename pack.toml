@@ -1,0 +1,13 @@
+name = "Actions & Better [ON JAVA]"
+author = "zdkrr"
+version = "2.5-26.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cc41dc4a0ddbbb8a58d28ecf0386773edf418ea67209dde4c532794285cd0ed7"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

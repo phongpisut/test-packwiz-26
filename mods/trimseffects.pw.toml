@@ -1,0 +1,13 @@
+name = "TrimsEffects - 2.1 NOW AVAILABLE!"
+filename = "trimeffects-fabric-mc26.1.2-2.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30c884f86a54a47461b9bc4951ddfa6667d8e05d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950846
+project-id = 870275

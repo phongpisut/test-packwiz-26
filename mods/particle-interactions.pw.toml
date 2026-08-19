@@ -1,0 +1,13 @@
+name = "Particle Interactions"
+filename = "eg_particle_interactions-0.10.2+26.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3ac1abfac5bc5b30738da8dd39e0020b5e171ea6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8634623
+project-id = 1235471

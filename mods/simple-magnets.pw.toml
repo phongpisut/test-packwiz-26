@@ -1,0 +1,13 @@
+name = "Simple Magnets"
+filename = "simplemagnets-1.1.12-fabric-mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "866cc9f8fe508504a45df0c257ba5417a893b98d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8370496
+project-id = 394140

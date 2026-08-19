@@ -1,0 +1,13 @@
+name = "Item Restrictions"
+filename = "itemrestrictions-fabric-21.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7862cfb64d9192afb476bc4cbd7a0d53147a5a49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8537073
+project-id = 887774

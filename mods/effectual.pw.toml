@@ -1,0 +1,13 @@
+name = "Effectual"
+filename = "effectual-fabric-1.4.1-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b58ff5dc2f7dc328deefa80e78c43bd3945cfea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8481306
+project-id = 1171658

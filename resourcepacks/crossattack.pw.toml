@@ -1,0 +1,13 @@
+name = "CrossAttack"
+filename = "§fCrossAttack §80.7.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d7248d2cc6c8eadda2500a969d8f6cdb007a4f5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8540535
+project-id = 1253055

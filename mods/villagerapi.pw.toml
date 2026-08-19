@@ -1,0 +1,13 @@
+name = "Villager API"
+filename = "Villager-API-26.1.x-fabric-1.26.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70022fb7ae75f9ce1034fd2cf0fe69dae85b03f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8374671
+project-id = 1396381

@@ -1,0 +1,13 @@
+name = "Unlimited Villager Trades"
+filename = "unlimited-villager-trades-26.2-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cde8f08ffe43b84e1f84cbc2fc7c7b52100b1cc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8540275
+project-id = 1555574

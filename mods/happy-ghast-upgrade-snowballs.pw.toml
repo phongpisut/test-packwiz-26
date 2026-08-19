@@ -1,0 +1,13 @@
+name = "Happy Ghast: Upgrade Snowballs"
+filename = "happy_ghast-1.13.0-26.2+.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7173a6c15dd60e8069edc47b77d9d1bca7526cbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8445762
+project-id = 1517532

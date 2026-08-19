@@ -1,0 +1,13 @@
+name = "Particles Updated [Particle Effects]"
+filename = "§aParticles Updated 26.2 §8(0.7) by zdkrr.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72d8321a5c5ecd2f95520797f4c75f7659740850"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8572010
+project-id = 1264431

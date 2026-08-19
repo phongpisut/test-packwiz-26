@@ -1,0 +1,13 @@
+name = "Terracart - Terrain Cart"
+filename = "terracart-2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3b4d880180ef127251292302a851f01de3d3578a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8458157
+project-id = 1461284

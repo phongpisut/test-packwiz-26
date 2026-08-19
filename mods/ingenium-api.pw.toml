@@ -1,0 +1,13 @@
+name = "Ingenium API"
+filename = "ingeniumapi-1.0.1-FABRIC-MC-26.X.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "acdf40b82bfe1ba98d44657eac2569501f08a348"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8430486
+project-id = 1609990

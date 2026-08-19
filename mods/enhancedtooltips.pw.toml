@@ -1,0 +1,13 @@
+name = "EnhancedTooltips"
+filename = "EnhancedTooltips-1.10.0+fabric.26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d2c9d487c38a032606a8e33230eabb15b34013b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8462300
+project-id = 1173737

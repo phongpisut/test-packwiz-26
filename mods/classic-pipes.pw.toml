@@ -1,0 +1,13 @@
+name = "Classic Pipes"
+filename = "classicpipes-fabric-26.2-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b429bbcbafa08a3452bffb252a4f25a802bd11b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8501152
+project-id = 1351745

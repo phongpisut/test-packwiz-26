@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-fabric-26.2-26.2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e785339f8e64bda95af45d86508386fb867fdf03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8545661
+project-id = 235577

@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-fabric-21.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c00161fc93303ba504f02f6bf3e3f42b99e1d84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8562967
+project-id = 419699

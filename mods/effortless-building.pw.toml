@@ -1,0 +1,13 @@
+name = "Effortless Building"
+filename = "effortlessbuilding-fabric-26.2-4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5bb5e94008ea187f7caccfccfc2718519c5e06b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8553954
+project-id = 302113

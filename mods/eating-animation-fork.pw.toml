@@ -1,0 +1,13 @@
+name = "Eating Animation Fork (Fabric/NeoForge)"
+filename = "eating-animation-fork-26.2+3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14c429f2fdfff4756a8fe544aec350e6e2cb543d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8560144
+project-id = 1582793

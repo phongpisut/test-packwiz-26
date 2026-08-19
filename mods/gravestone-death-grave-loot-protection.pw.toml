@@ -1,0 +1,13 @@
+name = "Gravestone | Death Grave & Loot Protection"
+filename = "gravestone-26.2-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa7bba0928dff2a2bb54fb75c6103f7f84aced5c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8640221
+project-id = 1641546

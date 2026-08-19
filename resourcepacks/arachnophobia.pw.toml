@@ -1,0 +1,13 @@
+name = "Arachnophobia"
+filename = "Arachnophobia 26.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e972db2b2b503fd4080587f73104530eccc11f2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8603561
+project-id = 547140

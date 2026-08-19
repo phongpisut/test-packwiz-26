@@ -1,0 +1,13 @@
+name = "Animal Feeding Trough [Fabric | Forge | Quilt | NeoForge]"
+filename = "animal_feeding_trough-1.2.1+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "726a59744768847c05000c98486b4cc74e672bc9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8408796
+project-id = 445838

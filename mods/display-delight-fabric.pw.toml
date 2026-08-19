@@ -1,0 +1,13 @@
+name = "Display Delight Fabric"
+filename = "display-delight-1.8.4-mc26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "508fd713058fd1dc81a156872f4f79250aab8bfb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8537251
+project-id = 1319595

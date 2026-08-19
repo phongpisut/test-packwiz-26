@@ -1,0 +1,13 @@
+name = "Pisces Libs"
+filename = "pisceslibs-1.0.1-fabric-26.2-0.152.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9104d2e6bfdab279ca2d2b22016d257b3fd25f69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8283085
+project-id = 1535651

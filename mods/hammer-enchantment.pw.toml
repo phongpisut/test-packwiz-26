@@ -1,0 +1,13 @@
+name = "Hammer Enchantment"
+filename = "hammer-enchantment-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6b8b49d42ffc2dbdf2a5e40dabd0aba39000cd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8585442
+project-id = 1592130

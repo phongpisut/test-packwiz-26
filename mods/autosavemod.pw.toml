@@ -1,0 +1,13 @@
+name = "AutoSaveMod"
+filename = "autosavemod-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9546a008eeed9ab3cf392b6e1ed61e7317339074"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8366674
+project-id = 1585790

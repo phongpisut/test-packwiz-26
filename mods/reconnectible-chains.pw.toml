@@ -1,0 +1,13 @@
+name = "Reconnectible Chains"
+filename = "connectiblechains-fabric-26.2-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce3960d6e3d56edd82b6542292c3469c6dd4527c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8386279
+project-id = 1451848

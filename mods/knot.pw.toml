@@ -1,0 +1,13 @@
+name = "Knot"
+filename = "knot-fabric-core-21.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e1ed0b5f3829c4a69837f5f67d8a2c61d4e8f2c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8553434
+project-id = 1470052

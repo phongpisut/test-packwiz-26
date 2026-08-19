@@ -1,0 +1,13 @@
+name = "Shippy Ships"
+filename = "shippy-ships-1.0.18-FABRIC-MC-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f29fb7b0ed6b3106fcfd9357a8876c7a234ac7d3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8591207
+project-id = 1551850
