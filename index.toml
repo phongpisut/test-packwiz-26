@@ -298,6 +298,11 @@ hash = "d679446eb3fa575175cb0c794a8519bdb7ebee586e65dae249c9b62da0b27eac"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "e221dd519da16c8f2a57cd02b52485301c1c300998c0a864422b1c9b98d24e17"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "848d7bdc39c57f75174521d1cab2e76695d876a8bd8b298e64d8cbba2f1804fb"
 metafile = true
