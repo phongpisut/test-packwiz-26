@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".crush/crush.db"
-hash = "1b07b3a353f712c1808d665f230d6424df3cf302020867e7e24d99d54935215d"
-
-[[files]]
-file = ".crush/init"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = ".crush/logs/crush.log"
-hash = "4017af76c2e3035a6dc87b79c4c8af4a6b66e67578306933906a1ff4f2fc330b"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
