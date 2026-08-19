@@ -1303,7 +1303,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1c34e2880069049be00f1752349bd20c97df7b3a79ca8260a2714d7b2d27ab87"
+hash = "7ed424f5ce1febe2c2c0e5fc58d34858f1bbd97eabdceb9b9c6afdde4bf578df"
 metafile = true
 
 [[files]]
@@ -1412,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-particles.pw.toml"
-hash = "11a86a721a30d5245e5800421f5f7c7ee7638af40ecded87c56af78d004d2e7a"
+hash = "d4f8418f2efbb8e83357cfdca1bc2eede8cf1e28054a2f3c59e70a6e81edab26"
 metafile = true
 
 [[files]]
@@ -1568,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/mossylib.pw.toml"
-hash = "6ffb11ef08362bfe8e93b0a39a0e2e7b7dd645a4775bf287f322f86d34f8ad3b"
+hash = "fd30a8c75cdbc927258b3729c05363890dcac9a99ed1d3b85db322712a15a758"
 metafile = true
 
 [[files]]
@@ -1617,7 +1617,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-animation-library.pw.toml"
-hash = "9c15b659f5e8adc895f11438a64b58bac81d161ce01811e50abfd40fcaf5707d"
+hash = "c0cda45c0b9cbc05935f935ab57268a12819e8cf85f1aef7e717b858e3f55bd2"
 metafile = true
 
 [[files]]
