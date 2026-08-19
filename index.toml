@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".crush/crush.db"
+hash = "1b07b3a353f712c1808d665f230d6424df3cf302020867e7e24d99d54935215d"
+
+[[files]]
+file = ".crush/init"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = ".crush/logs/crush.log"
+hash = "4017af76c2e3035a6dc87b79c4c8af4a6b66e67578306933906a1ff4f2fc330b"
+
+[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
 metafile = true
@@ -1093,14 +1105,6 @@ metafile = true
 [[files]]
 file = "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar"
 hash = "40da44194cd1dabdc5399c8e3c46253b6a568c2f4f9e2363a3b3a0069531d770"
-
-[[files]]
-file = "mods/InventoryParticles-2.6.0+26.2+fabric.jar"
-hash = "b44d808e673805eea4949591abcb3325faa1abf8b9321266d06533ea5a34c802"
-
-[[files]]
-file = "mods/PlayerAnimationLibMerged-1.2.5+mc.26.2.jar"
-hash = "67f08c8d383d8982c53d6c99e0e0dd6bec5e2f47bd4ed210ab034583787960bf"
 
 [[files]]
 file = "mods/PresenceFootsteps-1.13.3+26.2.jar"
